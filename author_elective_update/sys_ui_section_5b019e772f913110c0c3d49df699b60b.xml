@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="5b019e772f913110c0c3d49df699b60b" sys_domain="global" table="x_58872_needit_needit" version="3" view="MackenzieDelaCruz_App_Files_Lab_Exercise">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 13:45:59</sys_created_on>
+            <sys_id>2b019e772f913110c0c3d49df699b64e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="9a9a0abf2f513110c0c3d49df699b6fb">5b019e772f913110c0c3d49df699b60b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 13:45:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 13:45:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b019e772f913110c0c3d49df699b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_5b019e772f913110c0c3d49df699b60b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 13:45:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="MackenzieDelaCruz App Files Lab Exercise" name="MackenzieDelaCruz_App_Files_Lab_Exercise">9a9a0abf2f513110c0c3d49df699b6fb</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e8e3101adb6837002f68c597059619d1</instance_id>
+        <instance_name>dev78556</instance_name>
+        <name>sys_ui_section_5b019e772f913110c0c3d49df699b60b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="5b019e772f913110c0c3d49df699b60b" sys_domain="global" table="x_58872_needit_needit" version="3" view="MackenzieDelaCruz_App_Files_Lab_Exercise"><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-22 13:45:59</sys_created_on><sys_id>2b019e772f913110c0c3d49df699b64e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="9a9a0abf2f513110c0c3d49df699b6fb">5b019e772f913110c0c3d49df699b60b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-22 13:45:59</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-22 13:45:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5b019e772f913110c0c3d49df699b60b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_5b019e772f913110c0c3d49df699b60b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-22 13:45:58</sys_updated_on><sys_user/><title>false</title><view display_value="MackenzieDelaCruz App Files Lab Exercise" name="MackenzieDelaCruz_App_Files_Lab_Exercise">9a9a0abf2f513110c0c3d49df699b6fb</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1218320752</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>db95063b2f513110c0c3d49df699b681</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 13:45:59</sys_created_on>
+        <sys_id>2f019e772f913110c0c3d49df699b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18abd23df960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 13:45:59</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a3019e775e91311060982b472c747450</update_guid>
+        <update_guid_history>a3019e775e91311060982b472c747450:1218320752</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 13:46:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>825f3c473dc543c29783c73907161104</sys_id>
+        <sys_metadata>5b019e772f913110c0c3d49df699b60b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">bd9602bb2f513110c0c3d49df699b65b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5b019e772f913110c0c3d49df699b60b</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5b019e772f913110c0c3d49df699b60b">2f019e772f913110c0c3d49df699b650</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 13:46:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
